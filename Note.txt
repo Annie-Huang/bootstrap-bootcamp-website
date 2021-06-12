@@ -1,0 +1,13 @@
+Bootstrap 5 Crash Course | Website Build & Deploy (https://www.youtube.com/watch?v=4sosXZsdy-s)
+
+https://github.com/bradtraversy/bootstrap-bootcamp-website
+https://github.com/Annie-Huang/bootstrap-bootcamp-website
+
+https://getbootstrap.com/docs/5.0/getting-started/introduction/
+https://getbootstrap.com/docs/5.0/getting-started/download/
+
+==========================================================================
+If you use cdn, you cannot modify the files. If you want to use modified the files, you will need to download the scss files
+under source files in https://getbootstrap.com/docs/5.0/getting-started/download/
+
+
