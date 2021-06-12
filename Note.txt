@@ -10,4 +10,15 @@ https://getbootstrap.com/docs/5.0/getting-started/download/
 If you use cdn, you cannot modify the files. If you want to use modified the files, you will need to download the scss files
 under source files in https://getbootstrap.com/docs/5.0/getting-started/download/
 
+Layout breakpoint:
+https://getbootstrap.com/docs/5.0/layout/breakpoints/
+Breakpoint	Class infix	Dimensions
+X-Small	None	<576px
+Small	sm	≥576px
+Medium	md	≥768px
+Large	lg	≥992px
+Extra large	xl	≥1200px
+Extra extra large	xxl	≥1400px
 
+navbar:
+navbar-expand-lg: means in large device, it will expand to full length, otherwise, it will be hamburger menu.
