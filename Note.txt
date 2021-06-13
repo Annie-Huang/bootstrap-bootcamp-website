@@ -64,11 +64,10 @@ Width and height utilities are generated from the utility API in _utilities.scss
 and auto by default. Modify those values as you need to generate different utilities here.
 
 
-text-sm-start:
-Start at the small breakpoint, align text at the start.
+text-sm-start: Start at the small breakpoint, align text at the start.
 
-
-
+d-none: do not display.
+d-sm-block: display block when it's sm size.
 
 
 
