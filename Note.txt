@@ -14,6 +14,7 @@ https://getbootstrap.com/docs/5.0/components/card/
 
 https://blog.getbootstrap.com/2021/01/07/bootstrap-icons-1-3-0/
 https://getbootstrap.com/docs/5.0/components/accordion/#flush
+https://www.mapbox.com/
 
 ==========================================================================
 If you use cdn, you cannot modify the files. If you want to use modified the files, you will need to download the scss files
