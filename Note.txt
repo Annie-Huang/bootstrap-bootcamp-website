@@ -69,8 +69,8 @@ text-sm-start: Start at the small breakpoint, align text at the start.
 d-none: do not display.
 d-sm-block: display block when it's sm size.
 
-
-
+Button addons:
+https://getbootstrap.com/docs/5.0/forms/input-group/#button-addons
 
 
 
