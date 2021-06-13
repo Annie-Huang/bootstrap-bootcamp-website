@@ -7,6 +7,10 @@ https://getbootstrap.com/docs/5.0/getting-started/introduction/
 https://getbootstrap.com/docs/5.0/getting-started/download/
 https://getbootstrap.com/docs/5.0/layout/breakpoints/
 https://getbootstrap.com/docs/5.0/utilities/flex/#auto-margins
+https://getbootstrap.com/docs/5.0/utilities/flex/#enable-flex-behaviors
+https://getbootstrap.com/docs/5.0/content/images/#responsive-images
+https://getbootstrap.com/docs/5.0/utilities/sizing/#relative-to-the-parent
+
 
 ==========================================================================
 If you use cdn, you cannot modify the files. If you want to use modified the files, you will need to download the scss files
@@ -43,11 +47,21 @@ Add hamburger icon:
   <span class="navbar-toggler-icon"></span>
 </button>
 
+d-flex:
+https://getbootstrap.com/docs/5.0/utilities/flex/#enable-flex-behaviors
+Enable flex behaviors -> Apply display utilities to create a flexbox container and transform direct children elements
+into flex items. Flex containers and items are able to be modified further with additional flex properties.
 
 
+.img-fluid:
+https://getbootstrap.com/docs/5.0/content/images/#responsive-images
+Responsive images -> Images in Bootstrap are made responsive with .img-fluid. This applies max-width: 100%;
+and height: auto; to the image so that it scales with the parent element.
 
-
-
+w-50:
+https://getbootstrap.com/docs/5.0/utilities/sizing/#relative-to-the-parent
+Width and height utilities are generated from the utility API in _utilities.scss. Includes support for 25%, 50%, 75%, 100%,
+and auto by default. Modify those values as you need to generate different utilities here.
 
 
 
