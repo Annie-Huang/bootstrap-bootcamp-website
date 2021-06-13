@@ -5,6 +5,8 @@ https://github.com/Annie-Huang/bootstrap-bootcamp-website
 
 https://getbootstrap.com/docs/5.0/getting-started/introduction/
 https://getbootstrap.com/docs/5.0/getting-started/download/
+https://getbootstrap.com/docs/5.0/layout/breakpoints/
+https://getbootstrap.com/docs/5.0/utilities/flex/#auto-margins
 
 ==========================================================================
 If you use cdn, you cannot modify the files. If you want to use modified the files, you will need to download the scss files
@@ -22,3 +24,10 @@ Extra extra large	xxl	≥1400px
 
 navbar:
 navbar-expand-lg: means in large device, it will expand to full length, otherwise, it will be hamburger menu.
+
+
+ms-auto:
+https://getbootstrap.com/docs/5.0/utilities/flex/#auto-margins
+Auto margins -> Flexbox can do some pretty awesome things when you mix flex alignments with auto margins.
+Shown below are three examples of controlling flex items via auto margins: default (no auto margin), pushing two
+items to the right (.me-auto), and pushing two items to the left (.ms-auto).
